@@ -2,7 +2,7 @@
 
 ## About
 
-This is a repository I created as a compilation of my work as a data scientist. Right now it's still in the building phase, so it isn't fully inclusive of all my projects and courses
+This is a repository I created as a compilation of my work as a data scientist. Right now it's still in the building phase, so it isn't fully inclusive of all my projects and courses.
 
 ## Table of Contents
 - [Spencer Paragas Portfolio](#spencer-paragas-portfolio)
